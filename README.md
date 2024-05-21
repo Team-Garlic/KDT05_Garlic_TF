@@ -49,6 +49,7 @@
 5. 관측지점정보 : [링크](https://weather.rda.go.kr/w/weather/observationInfo.do)
 6. 마늘 관련 외부 데이터 : [링크](https://dacon.io/competitions/official/235801/data)
 7. 마늘 생산량 : [링크](https://www.usc.go.kr/garlicmuseum/page.do?mnu_uid=1569)
+8. 날씨마루(서리 예측, 주산기 기온정보, ) : [링크](https://bd.kma.go.kr/kma2020/fs/productionSelect1.do?menuCd=F050102000)
 
 <hr>
 
